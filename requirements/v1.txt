@@ -1,0 +1,5 @@
+show maximum port number in /etc/caddy/Caddyfile
+use: 
+while generating code with chatgpt, have to specify port number 
+have to knkow maxium portnumber use so far 
+hence increment port nubmer by 1, send to chatgpt 
